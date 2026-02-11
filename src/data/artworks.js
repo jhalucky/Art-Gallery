@@ -3,7 +3,7 @@ const artworks = [
       id: 1,
       src: "/artworks/art1.jpeg",
       category: "Canvas",
-      title: "Untitled I",
+      title: "Wall Paintings",
       year: "2023",
     },
     {
