@@ -12,13 +12,13 @@ export default function Navbar() {
   
             {/* Navigation */}
             <ul className="hidden md:flex items-center md:space-x-10 space-x-4 font-sans text-sm tracking-widest uppercase text-ivory/80">
-              <li className="hover:text-ivory transition-colors duration-300 cursor-pointer">
+              <li className="hover:text-[#C6A15B] transition-colors duration-300 cursor-pointer">
                 Gallery
               </li>
-              <li className="hover:text-ivory transition-colors duration-300 cursor-pointer">
+              <li className="hover:text-[#C6A15B] transition-colors duration-300 cursor-pointer">
                 About
               </li>
-              <li className="hover:text-ivory transition-colors duration-300 cursor-pointer">
+              <li className="hover:text-[#C6A15B] transition-colors duration-300 cursor-pointer">
                 Contact
               </li>
             </ul>
